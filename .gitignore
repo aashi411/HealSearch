@@ -1,0 +1,7 @@
+# .gitignore
+.venv/
+.env
+__pycache__/
+sessions/
+chroma_sessions/
+logs/

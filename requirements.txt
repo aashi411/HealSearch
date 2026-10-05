@@ -1,0 +1,15 @@
+# requirements.txt
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+chromadb
+sentence-transformers
+tavily-python
+requests
+beautifulsoup4
+python-dotenv
+pydantic
+streamlit
